@@ -1,16 +1,30 @@
-## Hi there 👋
+ 👋 Hi, I'm Timothy Muthuri
 
-<!--
-**Timothy-dev-tech/Timothy-dev-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🌐 Frontend Developer (HTML, CSS, JavaScript)  
+⚛️ Currently learning React  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ About Me
+- 🎓 Studying Computer Science  
+- 🌱 Currently improving my frontend skills  
+- 💡 Interested in building real-world solutions  
+- 📍 Based in Kenya  
+
+
+
+ Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+
+
+
+ 📌 Projects
+- 🌐 [Portfolio Website](https://muthuri-dev9768.github.io/Timohportfolio/)  
+
+
+
+ Connect With Me
+- GitHub: https://github.com/Timothy-dev-Tech
