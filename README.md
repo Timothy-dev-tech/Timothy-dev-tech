@@ -1,9 +1,7 @@
  Hi👋, I'm Timothy Muthuri
 
 Computer Science Student  
-Frontend Developer (HTML, CSS, JavaScript)  
-Currently learning React  
-
+Frontend Developer (HTML, CSS, JavaScript, React)  
 
  About Me
 - Studying Computer Science
