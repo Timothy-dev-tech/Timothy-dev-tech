@@ -14,13 +14,18 @@ Frontend Developer (HTML, CSS, JavaScript, React)
  Tech Stack
 - HTML  
 - CSS  
-- JavaScript  
-- Git & GitHub  
+- JavaScript
+- React  
+- Git & GitHub
+- Node.js 
 
 
 
   Projects
 -Personal portfolio website live at: https://timothy-dev-tech.github.io/timPortfolio/
+-Karatina tech and repair shop website live at: https://timothy-dev-tech.github.io/Karatina-tech-repair/
+-A login page live at: https://timothy-dev-tech.github.io/LOGIN-PAGE-PROJECT/
+
 
 
  Connect With Me
