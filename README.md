@@ -20,9 +20,12 @@ Frontend Developer (HTML, CSS, JavaScript, React)
 
 
   ## Projects
-  ###-Personal portfolio website live at: https://timothy-dev-tech.github.io/timPortfolio/
-###-Karatina tech and repair shop website live at: https://timothy-dev-tech.github.io/Karatina-tech-repair/
-###-A login page live at: https://timothy-dev-tech.github.io/LOGIN-PAGE-PROJECT/
+### Personal Portfolio
+  My Personal portfolio website live at: https://timothy-dev-tech.github.io/timPortfolio/
+### Karatina Tech & Repair
+  Karatina tech and repair shop website live at: https://timothy-dev-tech.github.io/Karatina-tech-repair/
+### Login Page
+  A login page live at: https://timothy-dev-tech.github.io/LOGIN-PAGE-PROJECT/
 
 
 
