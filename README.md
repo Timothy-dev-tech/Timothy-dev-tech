@@ -73,17 +73,12 @@ HTML, CSS, JavaScript · https://timothy-dev-tech.github.io/Karatina-tech-repair
 Responsive login form with client-side validation, extended with an Express, MongoDB and JWT backend.  
 HTML, CSS, JavaScript, Express, MongoDB · https://timothy-dev-tech.github.io/LOGIN-PAGE-PROJECT/
 
-### Nettoon (contribution)
-Frontend work on a Next.js streaming platform, including a multi-tab video upload flow with drafts, playlists and scheduled publishing.  
-Next.js, React, TypeScript, Tailwind CSS
+
 
 ### Expense Tracker (in progress)
 Command-line ledger in Python on SQLite, with validated transactions, integer-cent amounts and custom categories.  
 Python, SQLite
 
-### TimSol Technologies (in progress)
-My brand and portfolio site, built with React and TypeScript.  
-React, TypeScript, Tailwind CSS, Express, MongoDB · https://timsol.dev
 
 ## Connect
 
