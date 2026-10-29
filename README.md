@@ -6,8 +6,6 @@
 
 I'm a software developer and a Computer Science student at Karatina University (class of 2028). I build web applications from the interface people see to the API and database behind it, and I also work in Python, C and C++.
 
-- Frontend contributor on **Nettoon**, a Next.js streaming platform
-- Building **TimSol Technologies**, my own brand and portfolio site
 - Based in Kenya, open to junior roles and freelance projects
 
 ## What I Do
